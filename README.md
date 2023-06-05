@@ -1,4 +1,4 @@
-# Global Solution DevOps Tools And CloudC omputing - FIAP
+# Global Solution DevOps Tools And Cloud Computing - FIAP
 
 # Integrantes
 RM96269 - Bianca Dos Santos Pereira
