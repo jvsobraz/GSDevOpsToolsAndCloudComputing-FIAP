@@ -7,10 +7,7 @@ RM95396 - Ingrid Vieira de Oliveira
 RM95749 - João Vitor Santiago de Oliveira Braz
 RM95384 - Leonardo Dantas Marques
 
-## Objetivo do projeto:
-Diminuir a falta de alimento
-
-#Link do video pitch: https://youtu.be/sDJmt-fhRV8
+#Link do video mostrando o código rodando: XXXXXXXXXXXXXXXX
 
 ## Objetivo do projeto:
 Diminuir a falta de alimento
