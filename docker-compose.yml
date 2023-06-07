@@ -27,5 +27,5 @@ services:
     ports:
       - 8000:80
 volumes:
-  dbbase: 
+  dbbase:
   
